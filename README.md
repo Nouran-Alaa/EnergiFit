@@ -23,11 +23,11 @@ Welcome to the **Fitness Tracking Application**! This app helps users log workou
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/fitness-tracking-app.git
+   git clone https://github.com/your-username/Fitness-App.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd fitness-tracking-app
+   cd Fitness-App
    ```
 3. Install the dependencies:
    ```bash
