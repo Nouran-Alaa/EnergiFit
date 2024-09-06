@@ -34,7 +34,7 @@ const Dashboard = () => {
           Dashboard
         </h1>
 
-        <div className="w-3/4 grid grid-cols-1 md:grid-cols-2 gap-8">
+        <div className="w-3/4 grid grid-cols-1 lg:grid-cols-2 gap-8">
           <div className="bg-white shadow-md p-6 rounded-lg">
             <h3 className="text-lg font-semibold mb-4">Exercise Progress</h3>
             <ResponsiveContainer width="100%" height={200}>

@@ -21,16 +21,16 @@ const Sidebar = () => {
           <Bars3Icon className="h-10 w-10 text-orange-500" />
         )}
       </button>
-      <div className="md:w-1/5">
+      <div className="md:w-1/4 lg:w-1/5">
         <div
-          className={`text-white flex flex-col items-start fixed bg-gradient-to-r from-red-600 to-yellow-500 top-0 left-0 h-full w-full md:w-1/5 p-10 pt-14 text-left ease-in-out duration-500 ${
+          className={`text-white flex flex-col items-start fixed bg-gradient-to-r from-red-600 to-yellow-500 top-0 left-0 h-full w-full md:w-1/4 lg:w-1/5 p-10 pt-14 text-left ease-in-out duration-500 ${
             showSidebar ? "translate-x-0" : "-translate-x-full md:translate-x-0"
           }`}
         >
           <h1 className="text-2xl font-bold text-white mb-6">
             Fitness Tracking
           </h1>
-          <ul>
+          <ul className="w-full">
             <li className="mb-7">
               <div className="relative">
                 <button className="absolute left-0 inset-y-0 pl-2">

@@ -71,8 +71,8 @@ const HomeComponent = () => {
       <div>
         <Sidebar />
       </div>
-      <div className="w-full lg:w-10/12 min-h-screen flex flex-col items-center justify-center">
-        <div className="w-full max-w-5xl p-8">
+      <div className="w-full lg:w-10/12 md:w-4/5 min-h-screen flex flex-col items-center justify-center">
+        <div className="w-full xl:max-w-5xl lg:max-w-3xl md:max-w-3xl p-8">
           <h1 className="text-3xl font-bold text-center text-gray-800 mb-6">
             Welcome to Your Fitness Dashboard
           </h1>

@@ -29,7 +29,7 @@ const GoalsPage = () => {
       <Sidebar />
 
       <div className="flex-grow min-h-screen flex flex-col gap-7 items-center justify-center p-10 bg-gray-100">
-        <div className="w-11/12 bg-white shadow-lg rounded-lg p-8">
+        <div className="w-11/12 md:w-10/12 bg-white shadow-lg rounded-lg p-8">
           <h2 className="text-2xl font-bold text-gray-800 mb-6 text-center">
             Set Your Goals
           </h2>
@@ -60,7 +60,7 @@ const GoalsPage = () => {
             Add Goal
           </button>
         </div>
-        <div className="w-11/12 bg-white shadow-lg rounded-lg p-8">
+        <div className="w-11/12 md:w-10/12 bg-white shadow-lg rounded-lg p-8">
           {/* Display the Goals */}
           {goals.length > 0 ? (
             <div className="mt-3">
