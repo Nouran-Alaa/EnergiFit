@@ -1,6 +1,6 @@
 # 🏋️‍♀️ Fitness Tracking Application
 
-Welcome to the **Fitness Tracking Application**! This app helps users log workouts, monitor progress, and set fitness goals. With sleek styling, dynamic routing, and data persistence, it's the perfect tool to stay on track with your fitness journey.
+Welcome to the **EnergiFit**! A Fitness Tracking Application that helps users log workouts, monitor progress, and set fitness goals. With sleek styling, dynamic routing, and data persistence, it's the perfect tool to stay on track with your fitness journey.
 
 ## ✨ Features
 
@@ -23,7 +23,7 @@ Welcome to the **Fitness Tracking Application**! This app helps users log workou
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Fitness-App.git
+   git clone https://github.com/Nouran-Alaa/EnergiFit
    ```
 2. Navigate to the project directory:
    ```bash
